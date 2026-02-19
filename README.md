@@ -4,7 +4,6 @@ This repository contains hands-on AWS cloud security projects built as part of a
 
 Each project focuses on real-world security architecture, logging, IAM design, and infrastructure hardening.
 
----
 
 ## Projects
 
