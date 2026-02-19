@@ -6,7 +6,7 @@ Each project focuses on real-world security architecture, logging, IAM design, a
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 01 - Secure EC2 Infrastructure
 Traditional AWS architecture with VPC, EC2, IAM roles, and logging enabled.
@@ -15,7 +15,7 @@ Traditional AWS architecture with VPC, EC2, IAM roles, and logging enabled.
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Build strong AWS foundations
 - Develop cloud security engineering skills
