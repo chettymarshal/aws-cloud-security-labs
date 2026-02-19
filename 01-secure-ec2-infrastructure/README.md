@@ -1,6 +1,6 @@
 # 01 - Secure EC2 Infrastructure (Traditional Architecture)
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on building a secure traditional AWS infrastructure using EC2, VPC, IAM, and logging services.  
 
@@ -10,7 +10,7 @@ This project is being built as part of a structured AWS Cloud Security learning 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Secure AWS account foundation (MFA, IAM, budget alerts)
 - Enable account-level logging using CloudTrail
@@ -23,7 +23,7 @@ This project is being built as part of a structured AWS Cloud Security learning 
 
 ---
 
-## 🏗 Planned Architecture
+## Planned Architecture
 
 Internet  
 ↓  
@@ -41,7 +41,7 @@ More components will be added in later phases (monitoring, detection, hardening)
 
 ---
 
-## 🔐 Security Principles Applied
+## Security Principles Applied
 
 - Root account protected with MFA
 - IAM admin user used for daily operations
@@ -52,7 +52,7 @@ More components will be added in later phases (monitoring, detection, hardening)
 
 ---
 
-## 📚 Skills Being Developed
+## Skills Being Developed
 
 - AWS account governance
 - IAM fundamentals
@@ -63,10 +63,9 @@ More components will be added in later phases (monitoring, detection, hardening)
 
 ---
 
-## 🚀 Status
+## Status
 
 Project initialized.  
 Account security configured.  
 GitHub documentation structure created.  
 CloudTrail setup pending.
-
